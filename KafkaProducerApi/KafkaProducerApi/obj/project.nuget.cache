@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zjVyMEJ1NKbIqFqDGR06nYLa2cbkrg+i7IUliCDsYdYJoQpR43s8sRI1EGEUvsPt41vSK4pWiNuFLui/vmywA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Demo Kafka\\KafkaProducerApi\\KafkaProducerApi\\KafkaProducerApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.0-preview.2\\microsoft.visualstudio.azure.containers.tools.targets.1.20.0-preview.2.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\Imad.ETTAMEN\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
